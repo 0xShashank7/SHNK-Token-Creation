@@ -1,3 +1,5 @@
+MONAD's Day 3 ERC20 Token Creation Assignment Details
+
 Smart Contract - https://testnet.monadexplorer.com/address/0x0DEc69A0F109057C71F563d272C4Ae591f298eA4;
 
 ADMIN - 0x7f3B3db2b0A46Cec68D7AAc25f8534CfAf202c16
